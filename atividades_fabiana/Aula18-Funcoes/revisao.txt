@@ -1,0 +1,19 @@
+Aula 18 - Atividade de revisao
+
+Questao 1 - Qual funcao nao possui parametros nem retorno?
+Resposta: exibirLinha(), pois nao recebe valor e nao retorna resultado.
+
+Questao 2 - Quais funcoes recebem dois parametros?
+Resposta: somar(), subtrair(), multiplicar(), dividir() e maiorPreco().
+
+Questao 3 - Qual a finalidade do return?
+Resposta: Devolver o resultado calculado pela funcao para o local onde ela foi chamada.
+
+Questao 4 - Por que utilizar switch?
+Resposta: Para selecionar a operacao de acordo com a opcao escolhida pelo usuario.
+
+Questao 5 - Qual a finalidade do do...while?
+Resposta: Executar o bloco pelo menos uma vez e repeti-lo enquanto a condicao for verdadeira.
+
+Questao 6 - Por que verificar divisao por zero?
+Resposta: Porque a divisao por zero e indefinida e pode provocar erros no programa.
